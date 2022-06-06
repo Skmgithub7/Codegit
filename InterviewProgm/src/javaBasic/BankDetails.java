@@ -14,7 +14,7 @@ public class BankDetails {
 	public static void main(String[] args) {
 		
 		BankDetails r = new BankDetails();
-		r.getBalance();
+		r.getBalance();///
 
 	}
 
